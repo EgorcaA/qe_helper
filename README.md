@@ -49,6 +49,6 @@ calc.plot_BS()
 ## Contact
 
 Egor Agapov -  agapov.em@phystech.edu
-Project Link: [https://github.com/your_username/repo_name](https://github.com/EgorcaA/qe_helper)
+Project Link: [https://github.com/EgorcaA/qe_helper](https://github.com/EgorcaA/qe_helper)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
