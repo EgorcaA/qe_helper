@@ -40,9 +40,9 @@ calc.get_qe_kpathBS()
 calc.plot_FullDOS()
 calc.plot_BS()
   ```
-![alt text](pics/spinDOS.png?raw=true)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<img src="pics/spinDOS.png" alt="drawing" width="200"/>
+<img src="pics/spinBS" alt="drawing" width="200"/>
 
 
 <!-- CONTACT -->
