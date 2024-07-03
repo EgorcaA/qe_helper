@@ -1,13 +1,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This tool is designed to help you analyze and visualize the results obtained from Quantum Espresso simulations. It simplifies the process of interpreting complex data, remaining accessibly simple to adjust the code for your needs. 
+This tool is designed to help you analyze and visualize the results obtained from Quantum Espresso simulations (Band structure, density of states DOS, pDOS). It simplifies the process of interpreting complex data, remaining accessibly simple to adjust the code for your needs. 
 
 Features:
-* *Comprehensive Analysis*: Perform in-depth analysis of Quantum Espresso output files with ease.
 * *Visualization*: Generate clear and informative visualizations to better understand your simulation results.
 * *Ready-to-use visualization methods*: Simple and intuitive interface for efficient workflow.
+* Wannier90 hamiltonian loading and BS plotting
 
+There are only 2 files to examine!!! and the idea is to modify them for your personal needs fast. 
 Use `example` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
