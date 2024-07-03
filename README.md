@@ -40,7 +40,7 @@ calc.get_qe_kpathBS()
 calc.plot_FullDOS()
 calc.plot_BS()
   ```
-![alt text](https://github.com/EgorcaA/qe_helper/blob/[main]/pics/spinDOS.png?raw=true)
+![alt text](pics/spinDOS.png?raw=true)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
