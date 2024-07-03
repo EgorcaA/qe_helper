@@ -41,8 +41,8 @@ calc.plot_FullDOS()
 calc.plot_BS()
   ```
 
-<img src="pics/spinDOS.png" alt="drawing" width="200"/>
-<img src="pics/spinBS" alt="drawing" width="200"/>
+<img src="pics/spinDOS.png" alt="spinDOS_pic" width="200"/>
+<img src="pics/spinBS.png" alt="spinBS_pic" width="200"/>
 
 
 <!-- CONTACT -->
