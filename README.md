@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 
 Define you data document using:
 ```python
-  import qe_BS_DOS
+import qe_BS_DOS
 calc = qe_BS_DOS.VASP_analyse_spinpolarized_3D('./', 'Fe')
 ```
 Now you can access basic plots and properties
@@ -49,8 +49,6 @@ calc.plot_BS()
 ## Contact
 
 Egor Agapov -  agapov.em@phystech.edu
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Project Link: [https://github.com/your_username/repo_name](https://github.com/EgorcaA/qe_helper)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
