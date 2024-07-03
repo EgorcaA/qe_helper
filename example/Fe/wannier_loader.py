@@ -1,20 +1,12 @@
 import numpy as np
-import pandas as pd
-import numpy.linalg as LA
 from matplotlib.ticker import (MultipleLocator, FormatStrFormatter,
                                AutoMinorLocator)
 import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings('ignore')
 
-from pymatgen.electronic_structure.plotter import BSDOSPlotter, BSPlotter, DosPlotter
-from pymatgen.io.vasp.outputs import BSVasprun, Vasprun
-import qeschema
-
 import pickle 
 from  tqdm import tqdm
-import os
-import re
 
 
 Ang2Bohr = 1.8897259886
@@ -80,7 +72,7 @@ class Wannier_loader():
 
         R_coords, hr_up = lload('iron_up_hr')
         _, hr_dn = lload('iron_dn_hr')
-        print(hr_up.shape, hr_dn.shape)
+        # print(hr_up.shape, hr_dn.shape)
         self.complex_hr = np.transpose(np.array([hr_up, hr_dn]), (1,2,3,0))
         self.R_coords = R_coords
         
